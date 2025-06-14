@@ -1,2 +1,2 @@
 # jAVA-DSA
-This repo shows my daily progress while solving Leetcode questions of DSA using java
+This repo shows my daily progress while solving questions of DSA using java
